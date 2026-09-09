@@ -1,0 +1,17 @@
+{
+  "name": "genpark-dynamic-time-warping-dtw-alignment-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Dynamic Time Warping (DTW) Non-Linear Temporal Sequence Alignment Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "signal-processing",
+    "dynamic-time-warping",
+    "dtw",
+    "sequence-alignment"
+  ]
+}
