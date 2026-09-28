@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-dynamic-time-warping-dtw-alignment-skill"
+version = "1.0.0"
+description = "Dynamic Time Warping (DTW) non-linear temporal sequence alignment with Sakoe-Chiba window constraint"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
