@@ -1,0 +1,6 @@
+name: genpark-dynamic-time-warping-dtw-alignment-skill
+version: 1.0.0
+description: Dynamic Time Warping (DTW) non-linear temporal sequence alignment with Sakoe-Chiba window constraint
+command: python
+args:
+  - mcp_server.py
